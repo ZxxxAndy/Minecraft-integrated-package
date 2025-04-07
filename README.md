@@ -5,7 +5,7 @@
 
 本仓库整合包基于 **PCL2** & **PCL2-CE** 制作：
 
-- 🧩 **PCL2** 全称：Plain Craft Launcher 2  
+- 🛠️ **PCL2** 全称：Plain Craft Launcher 2  
   作者：[@龙腾猫跃](https://github.com/LTCatt)  
   仓库地址：[https://github.com/Hex-Dragon/PCL2](https://github.com/Hex-Dragon/PCL2)
 
@@ -29,7 +29,7 @@
 
 ## 🔧 更新版本说明
 
-当前主线整合包**偏向 Fabric 构建**，支线整合包将使用 **Forge** 构建。
+当前主线整合包偏向Fabric构建，支线整合包将使用Forge构建。
 
 支持版本如下：
 
@@ -53,4 +53,4 @@
 
 ## 📜 License
 
-本项目为自由分享项目，暂无特别许可协议，使用时请遵循各整合包依赖的开源协议。
+此条请阅读许可证内的内容
