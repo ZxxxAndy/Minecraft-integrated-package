@@ -46,15 +46,18 @@
 正在制作一个**1.7.10 的经典超轻量整合包**，渣机也能跑得飞快 🚀
 小声bb如果可以的话请支持一下制作者，一杯Coffee或者一块面包能让制作者开心一整天哦
 
-## 微信截图
-![WeChat Pay](Pay Photos/WeChat25.4.7.jpg)
-## 支付宝截图
-![AliPay](Pay Photos/Alipay25.4.7.jpg)
 
+## WeChat&AliPay截图                                                                  
+<img src="Pay Photos/WeChat25.4.7.jpg" alt="微信截图" width="300"/>
+<img src="Pay Photos/Alipay25.4.7.jpg" alt="支付宝截图" width="300"/>
 
 ---
 
-## 🧾 使用方式、下载与更多说明请见后续文档（更新中）
+## 🧾 使用方式、下载与更多说明请见下方（更新中）
+
+## 如何使用整合包？ 🤔
+请在本仓库内下载最新的 ZIP 文件，**下载好后拖入或导入PCL2 启动器** 内就可以啦，炒鸡简单！ 🚀
+
 
 ---
 
