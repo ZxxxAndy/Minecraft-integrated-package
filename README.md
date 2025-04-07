@@ -44,6 +44,13 @@
 ## 💡 小声 bb：
 
 正在制作一个**1.7.10 的经典超轻量整合包**，渣机也能跑得飞快 🚀
+小声bb如果可以的话请支持一下制作者，一杯Coffee或者一块面包能让制作者开心一整天哦
+
+## 微信截图
+![WeChat Pay](Pay Photos/WeChat25.4.7.jpg)
+## 支付宝截图
+![AliPay](Pay Photos/Alipay25.4.7.jpg)
+
 
 ---
 
