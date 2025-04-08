@@ -3,7 +3,7 @@
 
 ## 📝 前言须知
 
-本仓库整合包基于 **PCL2** & **PCL2-CE** 制作：
+本仓库整合包基于 **PCL2** & **PCL2-CE** 制作
 
 - 🛠️ **PCL2** 全称：Plain Craft Launcher 2  
   作者：[@龙腾猫跃](https://github.com/LTCatt)  
@@ -48,8 +48,7 @@
 
 
 ## WeChat&AliPay截图                                                                  
-<img src="Pay Photos/WeChat25.4.7.jpg" alt="微信截图" width="300"/>
-<img src="Pay Photos/Alipay25.4.7.jpg" alt="支付宝截图" width="300"/>
+<img src="Pay Photos/WeChat25.4.7.jpg" alt="微信截图" width="250"/>     <img src="Pay Photos/Alipay25.4.7.jpg" alt="支付宝截图" width="250"/>
 
 ---
 
