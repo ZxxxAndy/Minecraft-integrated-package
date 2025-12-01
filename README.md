@@ -10,7 +10,7 @@
   仓库地址：[https://github.com/Hex-Dragon/PCL2](https://github.com/Hex-Dragon/PCL2)
 
 - 🛠️ **PCL2-CE** 全称：Plain Craft Launcher 2 Community Edition  
-  作者：由 PCL-Community 组织基于 PCL2 制作  
+  作者：由 PCL-Community 社区基于 PCL2 制作  
   仓库地址：[https://github.com/PCL-Community/PCL2-CE](https://github.com/PCL-Community/PCL2-CE)  
   PCL-Community主页：[https://github.com/PCL-Community](https://github.com/PCL-Community)
 
@@ -19,7 +19,7 @@
 ## 📖 正文说明
 
 - 本仓库与负责人**非官方组织**，不代表龙腾猫跃与 PCL-Community。
-- 本仓库会稳定更新较新的 **Minecraft Java版整合包**。
+- 本仓库会稳定（？）更新较新的 **Minecraft Java版整合包**。
 - ✅ **主要更新方向**：高优化 + 高辅助，内置基础光影包与材质包（默认关闭）。
 - 📦 **次要更新方向**：大型整合包（工业、魔法、生电等）。
 - 📅 **更新频率**：随缘更新，看空闲时间（马上要毕业实习了捏）。
